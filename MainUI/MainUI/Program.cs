@@ -6,6 +6,7 @@ namespace MainUI
     {
         static void Main(string[] args)
         {
+            var
             Console.WriteLine("Hello World!");
         }
     }

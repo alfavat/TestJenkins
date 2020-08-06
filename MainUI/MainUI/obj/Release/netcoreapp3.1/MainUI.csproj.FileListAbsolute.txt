@@ -1,0 +1,13 @@
+G:\GitLabs\TestJenkins\MainUI\MainUI\bin\Release\netcoreapp3.1\MainUI.exe
+G:\GitLabs\TestJenkins\MainUI\MainUI\bin\Release\netcoreapp3.1\MainUI.deps.json
+G:\GitLabs\TestJenkins\MainUI\MainUI\bin\Release\netcoreapp3.1\MainUI.runtimeconfig.json
+G:\GitLabs\TestJenkins\MainUI\MainUI\bin\Release\netcoreapp3.1\MainUI.runtimeconfig.dev.json
+G:\GitLabs\TestJenkins\MainUI\MainUI\bin\Release\netcoreapp3.1\MainUI.dll
+G:\GitLabs\TestJenkins\MainUI\MainUI\bin\Release\netcoreapp3.1\MainUI.pdb
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.csprojAssemblyReference.cache
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.AssemblyInfoInputs.cache
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.AssemblyInfo.cs
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.csproj.CoreCompileInputs.cache
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.dll
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.pdb
+G:\GitLabs\TestJenkins\MainUI\MainUI\obj\Release\netcoreapp3.1\MainUI.genruntimeconfig.cache
