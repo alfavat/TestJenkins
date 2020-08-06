@@ -11,9 +11,17 @@ namespace MainUITest
             // arrange
             var x = 10;
             // act
-
             // assert
-            Assert.AreEqual(x,10);
+            Assert.AreEqual(x, 10);
+        }
+        [TestMethod]
+        public void TestMethod2()
+        {
+            // arrange
+            var x = 11;
+            // act
+            // assert
+            Assert.AreEqual(x, 10);
         }
     }
 }
