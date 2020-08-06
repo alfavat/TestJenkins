@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="aaec8b53-d317-46ed-b2ff-eed7392d5b94" name="DESKTOP-JLNE7M6$@DESKTOP-JLNE7M6 2020-08-06 12:59:38" runUser="NT AUTHORITY\SYSTEM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-08-06T12:59:38.2474837+04:30" queuing="2020-08-06T12:59:38.2474837+04:30" start="2020-08-06T12:59:36.9110627+04:30" finish="2020-08-06T12:59:38.2646466+04:30" />
+  <TestSettings name="default" id="557329cc-2e89-4186-b678-8645e72a939e">
+    <Deployment runDeploymentRoot="DESKTOP-JLNE7M6$_DESKTOP-JLNE7M6_2020-08-06_12_59_38" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="64e52cb8-9b56-4a40-af5b-c21820514053" testId="fe23e2bd-9916-244d-ad0a-69dc4c7b514a" testName="TestMethod2" computerName="DESKTOP-JLNE7M6" duration="00:00:00.0567273" startTime="2020-08-06T12:59:37.9374269+04:30" endTime="2020-08-06T12:59:37.9951930+04:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64e52cb8-9b56-4a40-af5b-c21820514053">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;11&gt;. Actual:&lt;10&gt;. </Message>
+          <StackTrace>   at MainUITest.UnitTest1.TestMethod2() in G:\GitLabs\TestJenkins\MainUI\MainUITest\UnitTest1.cs:line 24&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bdc9de98-c34e-47c8-9877-4622c2e73e1e" testId="2697c878-f74a-181a-8c25-78135bf59fc3" testName="TestMethod1" computerName="DESKTOP-JLNE7M6" duration="00:00:00.0055403" startTime="2020-08-06T12:59:37.8770244+04:30" endTime="2020-08-06T12:59:37.9258593+04:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bdc9de98-c34e-47c8-9877-4622c2e73e1e" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="g:\gitlabs\testjenkins\mainui\mainuitest\bin\debug\netcoreapp3.1\mainuitest.dll" id="2697c878-f74a-181a-8c25-78135bf59fc3">
+      <Execution id="bdc9de98-c34e-47c8-9877-4622c2e73e1e" />
+      <TestMethod codeBase="G:\GitLabs\TestJenkins\MainUI\MainUITest\bin\Debug\netcoreapp3.1\MainUITest.dll" adapterTypeName="executor://mstestadapter/v2" className="MainUITest.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="g:\gitlabs\testjenkins\mainui\mainuitest\bin\debug\netcoreapp3.1\mainuitest.dll" id="fe23e2bd-9916-244d-ad0a-69dc4c7b514a">
+      <Execution id="64e52cb8-9b56-4a40-af5b-c21820514053" />
+      <TestMethod codeBase="G:\GitLabs\TestJenkins\MainUI\MainUITest\bin\Debug\netcoreapp3.1\MainUITest.dll" adapterTypeName="executor://mstestadapter/v2" className="MainUITest.UnitTest1" name="TestMethod2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="fe23e2bd-9916-244d-ad0a-69dc4c7b514a" executionId="64e52cb8-9b56-4a40-af5b-c21820514053" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2697c878-f74a-181a-8c25-78135bf59fc3" executionId="bdc9de98-c34e-47c8-9877-4622c2e73e1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" failed="1" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

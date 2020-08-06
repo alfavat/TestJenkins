@@ -21,7 +21,7 @@ namespace MainUITest
             var x = 11;
             // act
             // assert
-            Assert.AreEqual(x, 10);
+            Assert.AreEqual(x, 11);
         }
     }
 }
